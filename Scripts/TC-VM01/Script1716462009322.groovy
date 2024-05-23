@@ -21,7 +21,25 @@ println('Hi Vignesh')
 
 WebUI.openBrowser('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.takeScreenshotAsCheckpoint('abc')
+WebUI.takeScreenshotAsCheckpoint('abc1')
+WebUI.takeScreenshotAsCheckpoint('abc2')
+
+WebUI.takeScreenshotAsCheckpoint('abc3')
+
+WebUI.takeScreenshotAsCheckpoint('abc4')
+
+WebUI.takeScreenshotAsCheckpoint('abc5')
+
+WebUI.takeScreenshotAsCheckpoint('abc6')
+
+WebUI.takeScreenshotAsCheckpoint('abc7')
+
+WebUI.takeScreenshotAsCheckpoint('abc8')
+
+WebUI.takeScreenshotAsCheckpoint('abc9')
+
+WebUI.takeScreenshotAsCheckpoint('abc10')
+
 WebUI.closeBrowser()
 print "Bye"
 
